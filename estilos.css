@@ -1,0 +1,28 @@
+h1{
+    color: rgb(0, 0, 0);
+}
+header{
+    border: 2px solid rgb(0, 0, 0);
+}
+
+article{
+    border: 1px solid black;
+}
+
+aricle{
+    height: 500px;
+    width: 250px;
+}
+aside{
+    height: 500px;
+    width: 250px;
+}
+td{
+    border: 1px solid black;
+}
+fieldset{
+    background-color: rgba(0, 0, 255, 0.5);
+}
+html{
+    background-color: rgba(0, 0, 0, 0.555);
+}
